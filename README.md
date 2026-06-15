@@ -77,8 +77,8 @@ I am **Vishwas N**, a final-year **Computer Science Engineering** student from M
 
 | Project | Tech Stack | Description | Impact |
 |---------|------------|-------------|--------|
-| **Intelligent Power Management System** | Java, MySQL, AI/ML | AI system that analyzes sensor, smart meter, and weather data to automate power distribution. | Reduced simulated energy waste by 30%. |
-| **Online Expenses Tracker** | HTML, CSS, JavaScript, MySQL | Full-stack finance web app with dynamic dashboards and spending category insights. | Reduced manual budget tracking time by about 60%. |
+| **Intelligent Power Management System** | Python, MySQL, AI/ML | AI system that analyzes sensor, smart meter, and weather data to automate power distribution. | Reduced simulated energy waste by 30%. |
+| **Online Expenses Tracker** | HTML, CSS, JavaScript, Python, MySQL | Full-stack finance web app with dynamic dashboards and spending category insights. | Reduced manual budget tracking time by about 60%. |
 | **College Website Management System** | HTML, CSS, Java, MySQL | Centralized CMS for non-technical staff to update college website content. | Cut content turnaround time from 48 hours to under 2 hours. |
 
 ---
@@ -103,7 +103,7 @@ I am **Vishwas N**, a final-year **Computer Science Engineering** student from M
 
 | Degree | Institution | Year | Details |
 |--------|-------------|------|---------|
-| **B.E. Computer Science and Engineering** | Maharaja Institute of Technology, Mysore | Expected June 2026 | Coursework: Data Structures, DBMS, OS, Web Technologies, Cloud Computing |
+| **B.E. Computer Science and Engineering** | Maharaja Institute of Technology, Mysore | 2026 | CGPA: 8 / 10, Distinction |
 | **Diploma in Computer Science and Engineering** | JSS Polytechnic, Mysore | 2023 | CGPA: 8.61 / 10, Distinction |
 | **Secondary School** | Anantha Geeth Vidyalaya, Mysore | 2020 | Percentage: 74.56% |
 
@@ -125,7 +125,7 @@ I am **Vishwas N**, a final-year **Computer Science Engineering** student from M
 ## GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwasvishi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F7A62&icon_color=1F7A62" width="45%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwasvishi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F7A62&icon_color=1F7A62" width="48%" alt="GitHub stats" />
 
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasvishi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F7A62" width="45%" alt="Top languages" />
