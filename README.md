@@ -125,7 +125,7 @@ I am **Vishwas N**, a final-year **Computer Science Engineering** student from M
 ## GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwasvishi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F7A62&icon_color=1F7A62" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwasvishi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F7A62&icon_color=1F7A62" width="45%" alt="GitHub stats" />
 
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasvishi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F7A62" width="45%" alt="Top languages" />
