@@ -121,7 +121,6 @@ I am **Vishwas N**, a final-year **Computer Science Engineering** student from M
 - Team Collaboration
 
 ---
-
 ## GitHub Statistics
 
 <p align="left">
@@ -131,9 +130,6 @@ I am **Vishwas N**, a final-year **Computer Science Engineering** student from M
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasvishi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F7A62" width="45%" alt="Top languages" />
 </p>
 </p>
-
-
-
 ---
 
 ## Contact
