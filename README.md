@@ -3,7 +3,7 @@
 <h3 align="center">Junior Developer | Full Stack | Backend | Computer Science Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F7A62&center=true&vCenter=true&width=720&lines=Java+%7C+Spring+Boot+%7C+JavaScript+%7C+MySQL;Building+full-stack+web+applications;Open+to+Junior+Developer+roles" alt="Typing SVG" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishwasvishi&show_icons=true&theme=tokyonight" alt="Typing SVG" />
 </p>
 
 <p align="center">
