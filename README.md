@@ -3,10 +3,6 @@
 <h3 align="center">Junior Developer | Full Stack | Backend | Computer Science Engineering Student</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishwasvishi&show_icons=true&theme=tokyonight" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishwasvishi&label=Profile%20Views&color=1F7A62&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/Open%20to-Junior%20Developer%20Roles-00C853?style=flat-square" alt="Open to roles" />
 </p>
@@ -102,65 +98,3 @@ I am **Vishwas N**, a final-year **Computer Science Engineering** student from M
 ## Education
 
 | Degree | Institution | Year | Details |
-|--------|-------------|------|---------|
-| **B.E. Computer Science and Engineering** | Maharaja Institute of Technology, Mysore | 2026 | CGPA: 8 / 10, Distinction |
-| **Diploma in Computer Science and Engineering** | JSS Polytechnic, Mysore | 2023 | CGPA: 8.61 / 10, Distinction |
-| **Secondary School** | Anantha Geeth Vidyalaya, Mysore | 2020 | Percentage: 74.56% |
-
----
-
-## Core Competencies
-
-- Problem Solving
-- Critical Thinking
-- Communication
-- Time Management
-- Multitasking
-- Calm Under Pressure
-- Creativity
-- Team Collaboration
-
----
-## GitHub Statistics
-
-<p align="center">
-  <img
-    src="[https://github-readme-stats.vercel.app/api?username=vishwasvishi](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishwasvishi&show_icons=true&theme=tokyonight)&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F7A62&icon_color=1F7A62"
-    width="48%"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasvishi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F7A62"
-    width="40%"
-    alt="Top Languages"
-  />
-</p>
----
-
-## Contact
-
-<p align="center">
-  I am open to junior developer, full-stack developer, backend developer, and collaboration opportunities.
-</p>
-
-<p align="center">
-  <a href="mailto:vishwasn200427@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vishwasn200427%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="tel:+917676166230">
-    <img src="https://img.shields.io/badge/Phone-%2B91%207676166230-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishwas-n-0b6201328">
-    <img src="https://img.shields.io/badge/LinkedIn-Vishwas%20N-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/vishwasvishi">
-    <img src="https://img.shields.io/badge/GitHub-vishwasvishi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for visiting my profile. Let's connect and build something useful.</i>
-</p>
