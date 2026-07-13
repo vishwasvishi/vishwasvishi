@@ -125,7 +125,7 @@ I am **Vishwas N**, a final-year **Computer Science Engineering** student from M
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=vishwasvishi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F7A62&icon_color=1F7A62"
+    src="[https://github-readme-stats.vercel.app/api?username=vishwasvishi](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishwasvishi&show_icons=true&theme=tokyonight)&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F7A62&icon_color=1F7A62"
     width="48%"
     alt="GitHub Stats"
   />
